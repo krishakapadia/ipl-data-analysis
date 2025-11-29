@@ -8,7 +8,7 @@ The goal of the project is to understand how teams and players have performed ov
 
 ## Project Structure
 ```
-ipl-eda/
+ipl-data-analysis/
 │── data/
 │ ├── IPL.csv                                  # raw dataset
 │ ├── ipl_cleaned_final.csv                    # cleaned ball-by-ball data
@@ -105,7 +105,7 @@ This helps identify stadiums that favour batting or bowling.
 Clone the repository and install dependencies.
 
 ```bash
-git clone https://github.com/krishakapadia/ipl-eda
+git clone https://github.com/krishakapadia/ipl-data-analysis
 cd ipl-eda
 pip install -r requirements.txt
 
